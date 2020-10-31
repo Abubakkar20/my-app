@@ -1,0 +1,9 @@
+.fromContect{
+    border:2px solid yellow;
+    padding:25px;
+    margin-bottom:15px;
+}
+.textArea{
+    width:300px;
+    height: 150px;
+}
